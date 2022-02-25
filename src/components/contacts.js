@@ -25,7 +25,7 @@ name:7000
         
         id :4,
         img:"https://media-cdn.tripadvisor.com/media/photo-s/16/1a/ea/54/hotel-presidente-4s.jpg",
-        name:4000
+        name:4800
         },
         {
         
