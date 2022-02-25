@@ -31,7 +31,7 @@ name:7000
         
             id :5,
             img:"https://bsmedia.business-standard.com/_media/bs/img/article/2021-03/06/full/1614979411-2048.jpg",
-            name:7000
+            name:7200
             },
             {
         
